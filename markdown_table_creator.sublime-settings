@@ -1,0 +1,16 @@
+{
+
+  // This will be used to align the column when alignment is not specified with ":"
+  // Can be "left" / "right" / "center"
+  "default_alignment": "left",
+
+  // Each of the characters will be used to separate header line together with "|"
+  "extra_header_separators": "",
+
+  // Each of the characters will be used to separate content lines together with "|"
+  "extra_content_separators": "",
+
+  // Enabling debug_mode will print errors after the selected text  
+  "debug_mode": false 
+
+}

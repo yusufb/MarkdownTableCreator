@@ -1,0 +1,3 @@
+[
+    { "keys": ["alt+shift+t"], "command": "markdown_table_creator" }
+]
