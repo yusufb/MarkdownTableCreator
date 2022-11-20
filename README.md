@@ -2,11 +2,17 @@
 
 **Markdown Table Creator** is a Sublime Text plugin that helps you create and reformat Markdown tables quickly.
 
-##### Table of Contents
-[Installation](#installation)
-[Usage](#usage)
-[Examples](#examples)
-[Configuration](#configuration)
+
+
+https://user-images.githubusercontent.com/1588495/202923784-16f5d2a0-920d-4dbc-a58a-0a2861f8eceb.mov
+
+
+
+#### Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Examples](#examples)
+- [Configuration](#configuration)
 
 <a id="installation" name="installation"></a>
 ## Installation
