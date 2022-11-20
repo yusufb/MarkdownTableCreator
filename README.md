@@ -116,6 +116,10 @@ Istanbul|Turkey|12M
 
 ### Keymap
 
+You can add a keymap with
+`Sublime Text > Preferences > Key Bindings`
+
+Example:
 ```json
 { "keys": ["alt+shift+t"], "command": "markdown_table_creator" }
 ```
