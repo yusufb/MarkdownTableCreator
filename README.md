@@ -35,14 +35,14 @@ _TBA_
 - Type 1+ header names, separated with `|` (or configured `extra_header_separators`)
 - Type content data, separated with `|` (or configured `extra_content_separators`) _(optional)_
 - Select the text you want to convert to Markdown table
-- Select `Markdown Table Creator` from Command Palette, or hit `alt+shift+t`
+- Select `Markdown Table Creator` from Command Palette, or hit the defined key binding
 
 
 ### Reformat Markdown table
 
 - Make any change in header/content data, alignment, or table structure 
 - Select the Markdown table
-- Select `Markdown Table Creator` from Command Palette, or hit `alt+shift+t`
+- Select `Markdown Table Creator` from Command Palette, or hit the defined key binding
 
 <a id="examples" name="examples"></a>
 ## Examples
