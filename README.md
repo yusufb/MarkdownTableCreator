@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/1588495/202923784-16f5d2a0-920d-4dbc-a
 
 ### via Package Control
 
-_TBA_
+https://packagecontrol.io/packages/Markdown%20Table%20Creator
 
 ### Manual Installation
 
