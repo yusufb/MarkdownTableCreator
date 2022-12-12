@@ -21,6 +21,10 @@ https://user-images.githubusercontent.com/1588495/202923784-16f5d2a0-920d-4dbc-a
 
 ### via Package Control
 
+1. Open the Command Palette (`Tools > Command Palette`)
+2. Search for `Package Control: Install Package` and select it
+3. Search for `Markdown Table Creator` and select it to install
+
 https://packagecontrol.io/packages/Markdown%20Table%20Creator
 
 ### Manual Installation
